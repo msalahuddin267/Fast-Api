@@ -3,9 +3,11 @@ Prerequisites:
     - MongoDB installed locally
 
 Setup Instructions:
+
     1. Create a Virtual Environment
         - run this command to your terminal: virtualenv venv
         - activate command for virtual environment: ./venv/Scripts/activate
+    
     2. Install Dependencies
         - run this command to your terminal: pip install -r requirements.txt
 
