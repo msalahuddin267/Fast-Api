@@ -21,9 +21,9 @@ Setup Instructions:
         - For Swagger documentation: http://127.0.0.1:8000/docs
 
     5. API Endpoints
-        - Allocate a Vehicle: POST /vehicles/allocate
-        - Update an Allocation: PUT /vehicles/update/{allocation_id}
-        - Delete an Allocation: DELETE /vehicles/delete/{allocation_id}
-        - Get Allocations History: GET /reports/allocations-report
+        - Allocate a Vehicle: POST /allocate
+        - Update an Allocation: PUT /update/{allocation_id}
+        - Delete an Allocation: DELETE /delete/{allocation_id}
+        - Get Allocations History: GET /history
 
     
